@@ -4,6 +4,8 @@ python-dotenv
 ipykernel
 pypdf
 bs4
+torch
+torchvision
 arxiv
 pymupdf
 wikipedia
